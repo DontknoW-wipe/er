@@ -1,0 +1,2 @@
+
+vowel= 1 and Consonent= 1
