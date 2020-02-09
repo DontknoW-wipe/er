@@ -1,2 +1,2 @@
 
-vowel= 1 and Consonent= 1
+vowel= 11 and Consonent= 3
